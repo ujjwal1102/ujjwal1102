@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1102&" alt="ujjwal1102" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/srivastavaaman2017?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/srivastavaaman2017?ext=heatmap&theme=unicorn)
