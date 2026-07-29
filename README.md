@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal1102" alt="ujjwal1102" /></a> </p>
 
-- 🔭 I’m currently working in [Laitkor Labs](https://www.laitkor.com/)
+- 🔭 I’m currently working in [Wits Labs](https://www.thewitslab.com/)
 
 - 🌱 I’m currently learning **DSA,Python and JavaScript**
 
