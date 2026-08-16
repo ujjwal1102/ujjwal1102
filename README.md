@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Srivastava;Full+Stack+Developer;Python+%26+React.js+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Srivastava;Full+Stack+Developer;Python+%26+React.js+Enthusiast;Building+with+Django+%2B+DRF;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjwal1102&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ujjwal1102?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Aujjwal1102&style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/github/stars/ujjwal1102?label=Total+Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ---
@@ -17,11 +17,11 @@
 - 🔭 **Current Role:** Full Stack Developer at **[Wits Labs](https://www.thewitslab.com/)**
 - 👨‍💻 **Portfolio:** Check out my work at **[ujjwal-srivastava.netlify.app](https://ujjwal-srivastava.netlify.app/)**
 - 🌱 **Currently Learning:** Data Structures & Algorithms (DSA), Advanced Python, JavaScript
-- 💬 **Ask Me About:** Python, Django, Django REST Framework (DRF), React.js, Full-Stack Architecture
+- 💬 **Ask Me About:** Python, Django, Django REST Framework (DRF), React.js, Full-Stack Architecture, Machine Learning basics
 - 📫 **How to Reach Me:** [ujjwal.srivastava1102@gmail.com](mailto:ujjwal.srivastava1102@gmail.com)
 - ⚡ **Fun Fact:** I debug better with coffee ☕ than without it
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/aayushkumarshah/aayushkumarshah/master/gifs/coding-cat.gif" alt="coding gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/aayushkumarshah/aayushkumarshah/master/gifs/coding-cat.gif" alt="coding gif"/>
 
 ---
 
@@ -87,12 +87,31 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,vue,html,css,sass,bootstrap,tailwind,nodejs,graphql,postgres,mongodb,mysql,sqlite,firebase,aws,docker,git,figma,vscode,linux&perline=10" alt="Skill Icons" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/ujjwal1102/machine_learning_algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal1102&repo=machine_learning_algorithms&theme=tokyonight&hide_border=true" alt="machine_learning_algorithms" />
+  </a>
+  <a href="https://github.com/ujjwal1102/Camera_app_ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal1102&repo=Camera_app_ui&theme=tokyonight&hide_border=true" alt="Camera_app_ui" />
+  </a>
+</p>
+
+> This card auto-renders your pinned/featured repos straight from GitHub — update which repos show here anytime from your GitHub profile's "Customize your pins" option, no README edit needed.
+
 ---
 
 ### 📊 GitHub & Problem Solving Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjwal1102&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjwal1102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal1102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -111,17 +130,15 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ujjwal1102/ujjwal1102/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> Note: the snake animation needs a small one-time GitHub Actions setup in your profile repo (I've added the workflow file below) — it won't render until that Action runs once.
-
 ---
 
-### 🎯 GitHub Streak & Random Dev Quote
+### 🎯 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -155,3 +172,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <p align="center"><i>Thanks for visiting my GitHub profile! Feel free to explore my repositories. 🚀</i></p>
+
+<!--
+=========================================================
+ONE-TIME SETUP — required for two widgets above to render
+=========================================================
+
+1) SNAKE ANIMATION (the "Contribution Snake" section):
+   - Create/use a repo named EXACTLY your username: ujjwal1102/ujjwal1102
+   - Add the file .github/workflows/snake.yml from this same delivery into that repo
+   - Go to that repo's "Actions" tab and manually run the workflow once
+     (it also auto-runs daily via cron, and re-runs on every push to main)
+   - It creates an "output" branch with the SVG the README links to — after
+     the first run, the image above renders automatically forever.
+
+2) THIS README ITSELF:
+   - This file must be saved as README.md inside a repo named exactly
+     your GitHub username (ujjwal1102/ujjwal1102) — that's the only repo
+     GitHub renders as your profile page.
+
+Everything else (typing header, badges, stats, streak, top languages,
+activity graph, trophies, LeetCode card, pinned repos, random quote,
+profile views, follower/star counts) is 100% dynamic — it pulls live
+data from your GitHub/LeetCode account automatically, no manual edits
+needed, and needs no extra setup beyond step 2.
+=========================================================
+-->
